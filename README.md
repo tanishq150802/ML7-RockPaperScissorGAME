@@ -15,7 +15,7 @@ Validation Accuracy - 99.60%
 
 Test Accuracy - 90.51%
 
-F1 Score - 
+F1 Score - 84.5%
 
 All the code can be accessed in the rps_bd.ipynb file. It can be easily run in GoogleCollab.
 
