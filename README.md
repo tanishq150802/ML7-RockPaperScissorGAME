@@ -1,5 +1,5 @@
 # ML7-RockPaperScissorGAME
-ML Project By Kshitij M Bhat, Tanishq Selot and Bhavya Dalal for IITISoC'21
+ML Project By Kshitij M Bhat, Bhavya Dalal and Tanishq Selot for IITISoC'21
 
 Mentors - Aryan Rastogi, Bharat Gupta, Sakshee Patil, Kashish Bansal
 
