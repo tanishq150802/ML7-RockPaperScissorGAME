@@ -17,7 +17,7 @@ Test Accuracy - 94.35%
 
 F1 Score - 94.95%
 
-All the code can be accessed in the rps_bd.ipynb file. It can be easily run in any IPython notebook editor.
+All the code can be accessed in the ML7_RockPaperScissors.ipynb file. It can be easily run in any IPython notebook editor.
 
 **Some correctly predicted images :**
 
