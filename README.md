@@ -17,4 +17,15 @@ Test Accuracy - 90.51%
 
 F1 Score - 
 
-All the code can be accessed in the MainMODEL file.
+All the code can be accessed in the MainMODEL file. It can be easily run in GoogleCollab.
+
+**Some correctly predicted images :**
+
+![paper1](https://user-images.githubusercontent.com/81608921/125164332-4babaa80-e1af-11eb-8f37-12f28b4291e4.jpg)
+
+![theROCK](https://user-images.githubusercontent.com/81608921/125164432-ce346a00-e1af-11eb-8a02-fe922340c610.jpg)
+
+![paper4](https://user-images.githubusercontent.com/81608921/125164492-19e71380-e1b0-11eb-97fc-0000e6985127.jpg)
+
+![STONE](https://user-images.githubusercontent.com/81608921/125164523-561a7400-e1b0-11eb-8064-46006b9efa98.jpg)
+
