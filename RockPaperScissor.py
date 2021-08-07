@@ -5,7 +5,7 @@ import cv2 as cv
 import statistics
 
 #Importing the trained model
-model = tf.keras.models.load_model("rock_paper_scissors.h5")
+model = tf.keras.models.load_model("models/rock_paper_scissors.h5")
 
 def evaluate_move(test_image):
     #Resizing the array according to the model requirement
