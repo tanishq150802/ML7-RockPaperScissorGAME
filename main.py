@@ -6,12 +6,12 @@ from RockPaperScissors import evaluate_move
 
 pygame.init() 
 moves = ["rock","paper","scissors"]
-rock = pygame.image.load('rock.jpg')
-paper = pygame.image.load('paper.jpg')
-scissors = pygame.image.load('scissors.jpg')
+rock = pygame.image.load('images/rock.jpg')
+paper = pygame.image.load('images/paper.jpg')
+scissors = pygame.image.load('images/scissors.jpg')
 
 color = [239,228,220]
-font_name = 'analoguemedium.ttf'
+font_name = 'fonts/analoguemedium.ttf'
 font = pygame.font.SysFont(font_name, 128)
 font2 = pygame.font.SysFont(font_name, 60)
 font3 = pygame.font.SysFont(font_name, 30)
