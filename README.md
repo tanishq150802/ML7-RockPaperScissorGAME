@@ -32,6 +32,9 @@ All the code can be accessed in the ML7_RockPaperScissors.ipynb file. It can be 
 
 **For the final submission:**
 
+**OpenCV file - RockPaperScissor.py**
+**Pygame file - main.py**
+
 We used OpenCV for taking the input from the user via the webcam and labelling it using the classifier model. The computer randomly selects (**no chance of bias**) an image against the human opponent and the applies the conditional statement to predict that who should get the point. The Pygame gaming interface is used to display the responses and it also shows the scoreboard at real-time. The interface looks like :
 
 ![bdde3a19-0f06-40ed-b763-c97ebaa93d1d](https://user-images.githubusercontent.com/81608921/128611161-7e568128-0d7e-4794-8518-7667c4e810fe.jpg)
